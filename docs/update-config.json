@@ -1,1 +1,9 @@
 
+{
+  "versionName": "1.0.3",
+  "versionCode": 103,
+  "updateTitle": "发现新版本",
+  "updateContent": "修复设置页滚动问题，补全备份与恢复入口，并优化导出提示。",
+  "downloadUrl": "https://github.com/你的用户名/suixulu-release/releases/download/v1.0.3/app-release.apk",
+  "force": false
+}
