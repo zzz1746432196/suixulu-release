@@ -1,9 +1,8 @@
-
 {
-  "versionName": "1.0.3",
-  "versionCode": 103,
-  "updateTitle": "发现新版本",
-  "updateContent": "修复设置页滚动问题，补全备份与恢复入口，并优化导出提示。",
-  "downloadUrl": "https://github.com/你的用户名/suixulu-release/releases/download/v1.0.3/app-release.apk",
+  "versionCode": 113,
+  "versionName": "1.2.0",
+  "title": "发现新版本",
+  "description": "习惯模块升级为生活日常系统，底部导航调整为总览、计划、日历、习惯。",
+  "downloadUrl": "https://github.com/zzz1746432196/suixulu-release/releases/download/v1.2.0/app-release.apk",
   "force": false
 }
